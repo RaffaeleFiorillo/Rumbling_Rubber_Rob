@@ -1,0 +1,5 @@
+When player dies, he falls and a fart comes to say game over and score;
+
+The player dies if he miss-presses 3 times (and has immunity)
+
+pyinstaller --onefile --name="Rumbling Rubber Rob" --noconsole --windowed --icon=assets\Images\Others\game-icon.ico main.py
